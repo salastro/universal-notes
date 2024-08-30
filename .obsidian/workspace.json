@@ -128,8 +128,17 @@
                 "file": "Application Strategies in U.S. Universities.md"
               }
             }
+          },
+          {
+            "id": "279ae44b7f29c73d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,7 +156,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ba0e220ef6829c64",
+  "active": "279ae44b7f29c73d",
   "lastOpenFiles": [
     "Research Teams in U.S. Universities.md",
     "Application Strategies in U.S. Universities.md",
