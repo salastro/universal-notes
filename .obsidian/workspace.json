@@ -121,12 +121,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,7 +139,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b1e915f9b900da64",
+  "active": "651ea961e3350e31",
   "lastOpenFiles": [
     "Application Strategies in U.S. Universities.md",
     "Research Teams in U.S. Universities.md",
