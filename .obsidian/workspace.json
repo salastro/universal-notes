@@ -11,8 +11,12 @@
             "id": "ba0e220ef6829c64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Application Strategies in U.S. Universities.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Application Strategies in U.S. Universities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Application Strategies in U.S. Universities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Application Strategies in U.S. Universities.md"
+              }
             }
           }
         ]
@@ -139,10 +147,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "651ea961e3350e31",
+  "active": "ba0e220ef6829c64",
   "lastOpenFiles": [
-    "Application Strategies in U.S. Universities.md",
     "Research Teams in U.S. Universities.md",
+    "Application Strategies in U.S. Universities.md",
     "Key Dirs.md",
     "directory.md",
     "Abstraction.md",
