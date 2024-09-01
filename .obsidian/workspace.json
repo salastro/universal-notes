@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "af64b619d601e29a",
+        "id": "f5483ef86ab499b1",
         "type": "tabs",
         "children": [
           {
-            "id": "ba0e220ef6829c64",
+            "id": "05305453f09dbab6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Belief Systems as Vectors in a Multi-Dimensional Space.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74d6c12917d67494",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Belief Systems as Vectors in a Multi-Dimensional Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Belief Systems as Vectors in a Multi-Dimensional Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Belief Systems as Vectors in a Multi-Dimensional Space.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,11 +149,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ba0e220ef6829c64",
+  "active": "05305453f09dbab6",
   "lastOpenFiles": [
+    "Belief Systems as Vectors in a Multi-Dimensional Space.md",
+    "subvolumes.md",
+    "Btrfs.md",
+    "snapshots.md",
     "Key Dirs.md",
     "Application Strategies in U.S. Universities.md",
-    "Belief Systems as Vectors in a Multi-Dimensional Space.md",
     "Untitled.canvas",
     "scalar multiplication.md",
     "Research Teams in U.S. Universities.md",
