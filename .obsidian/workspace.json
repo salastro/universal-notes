@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Strategies in U.S. Universities.md",
+                "file": "Belief Systems as Vectors in a Multi-Dimensional Space.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application Strategies in U.S. Universities.md",
+                "file": "Belief Systems as Vectors in a Multi-Dimensional Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application Strategies in U.S. Universities.md",
+                "file": "Belief Systems as Vectors in a Multi-Dimensional Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application Strategies in U.S. Universities.md"
+                "file": "Belief Systems as Vectors in a Multi-Dimensional Space.md"
               }
             }
           },
@@ -156,14 +156,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "279ae44b7f29c73d",
+  "active": "ba0e220ef6829c64",
   "lastOpenFiles": [
-    "Research Teams in U.S. Universities.md",
-    "Application Strategies in U.S. Universities.md",
     "Key Dirs.md",
+    "Application Strategies in U.S. Universities.md",
+    "Belief Systems as Vectors in a Multi-Dimensional Space.md",
+    "Untitled.canvas",
+    "scalar multiplication.md",
+    "Research Teams in U.S. Universities.md",
     "directory.md",
     "Abstraction.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }

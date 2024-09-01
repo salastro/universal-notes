@@ -1,0 +1,4 @@
+[[Belief systems]] could be thought of as [[vectors]] in a [[multi-dimensional space]]. [[Basis vectors]] in this space could correspond to fundamental independent [[axiomatic propositions]], where [[scalar multiplication]] would scale the strength of a belief representing level of confidence in that certain axiom and the effect it has on the larger belief system. Also, addition would involve combining two sets of beliefs (similar to [[union]] in some cases), while subtraction would give the difference between the two sets of beliefs or could be interpreted simply as the effect of the disbelief in a system on the other. Addition and subtraction can model how we update beliefs based on new evidence or information. Finally, the [[zero vector]] in this space could represent a state of complete neutrality or indifference ([[agnosticism]]), where no particular belief is held with any confidence.
+
+[[Abstraction]]
+#philosophy #math 
