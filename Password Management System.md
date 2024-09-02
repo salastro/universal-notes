@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph TB
     A[Password Management System] --> B[Linux]
     A --> D[Android]
     A --> C[Windows]
@@ -9,8 +9,8 @@ graph TD
     E --> I[Syncthing]
     F --> I
     G --> I
-    I --> I
     I --> J[Local Sync]
+	J --> J
     I --> K[Git]
     K --> K
     K --> L[GitHub Backup]

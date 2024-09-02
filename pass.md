@@ -10,4 +10,5 @@ graph TB;
     Ext --> Browser[Browser]
     Ext --> OTP[OTP]
 ```
+[[GPG]]
 #linux #encryption 

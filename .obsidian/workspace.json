@@ -6,6 +6,7 @@
       {
         "id": "f5483ef86ab499b1",
         "type": "tabs",
+        "dimension": 56.426735218508995,
         "children": [
           {
             "id": "05305453f09dbab6",
@@ -24,6 +25,7 @@
       {
         "id": "7112b60039685827",
         "type": "tabs",
+        "dimension": 43.573264781491,
         "children": [
           {
             "id": "6254311414a95ef2",
@@ -32,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "pass.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password Management System.md",
+                "file": "pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Password Management System.md",
+                "file": "pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Password Management System.md"
+                "file": "pass.md"
               }
             }
           },
@@ -175,10 +177,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05305453f09dbab6",
+  "active": "6254311414a95ef2",
   "lastOpenFiles": [
-    "pass.md",
     "Password Management System.md",
+    "pass.md",
     "Belief Systems as Vectors in a Multi-Dimensional Space.md",
     "subvolumes.md",
     "Btrfs.md",
