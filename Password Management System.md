@@ -16,7 +16,7 @@ graph TB
     K --> L[GitHub Backup]
 ```
 
-k
+
 
 [[pass]]
 #linux #storage #encryption #git #syncthing 
