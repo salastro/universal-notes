@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86c47ab8988069bf",
+        "id": "8789aaedf2980234",
         "type": "tabs",
         "children": [
           {
-            "id": "bb46d8ebd6a48273",
+            "id": "2c6d5b72749fd891",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,8 +149,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bb46d8ebd6a48273",
+  "active": "2c6d5b72749fd891",
   "lastOpenFiles": [
+    "Energy.md",
     "pass.md",
     "Password Management System.md",
     "Belief Systems as Vectors in a Multi-Dimensional Space.md",
