@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1e09d5f733a06ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spicetify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extending NvChad Configurations.md",
+                "file": "Spicetify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extending NvChad Configurations.md",
+                "file": "Spicetify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extending NvChad Configurations.md"
+                "file": "Spicetify.md"
               }
             }
           },
@@ -157,9 +170,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2c6d5b72749fd891",
+  "active": "e1e09d5f733a06ab",
   "lastOpenFiles": [
     "Extending NvChad Configurations.md",
+    "Spicetify.md",
     "Energy.md",
     "pass.md",
     "Password Management System.md",
