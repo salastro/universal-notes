@@ -9,7 +9,10 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
 spicetify backup apply enable-devtools
 ```
 ## Themes
-1. Install themes (https://github.com/spicetify/spicetify-themes) into `~/.config/spicetify/Themes/`
+Path: `~/.config/spicetify/Themes/`
+List: https://spicetify.app/docs/advanced-usage/themes
+Run:
+1. Install themes (https://github.com/spicetify/spicetify-themes) into path
 2. 
 ```sh
 spicetify config current-theme text
@@ -23,3 +26,7 @@ Run:
 spicetify config extensions fullAppDisplay.js # change the file name to the extension you want
 spicetify apply
 ```
+## Custom Apps
+https://spicetify.app/docs/advanced-usage/custom-apps
+
+#linux 
